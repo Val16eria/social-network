@@ -1,4 +1,4 @@
-# Couurse "social network" from it-kamasutra
+# Course "social network" from it-kamasutra
 
 * NodeJS
 * grid
