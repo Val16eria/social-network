@@ -2,8 +2,16 @@
     grid-area: n;
     background-color: #6faacc;
     margin: 10px;
+    padding: 20px;
 }
 
 .item {
     color: white;
+    text-decoration: none;
+}
+
+.active {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
 }
