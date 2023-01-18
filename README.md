@@ -5,3 +5,4 @@
 * css-modules
 * props
 * Routes, Route, NavLink
+* Redux
