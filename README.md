@@ -6,3 +6,4 @@
 * props
 * Routes, Route, NavLink
 * Redux
+* OOP
